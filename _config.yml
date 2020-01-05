@@ -43,6 +43,7 @@ author:
   name: Hannah Hellerstein
   email: "hannahhellerstein@gmail.com"
   github: enderquestral   # eg. daattali
+  telephone: "415-871-7208"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -60,14 +61,14 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
 
 # Select which share links to show in posts
 share-links-active:
   twitter: false
   facebook: false
   google: true
-  linkedin: flase
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
